@@ -1,0 +1,18 @@
+Excel Project
+
+E-commerce Products Dataset | Myntra 150k Products
+
+This dataset is having almost 150k product details hosted on Myntra. There are 10 columns that you can check in detail below.
+
+1. product_name: Name of the product
+2. brand_name: Brand Name of the Product
+3. rating: Rating of the product
+4. rating_count: Number of people given a rating for that product
+5. marked_price: Marked price of the product
+6. discounted_price: The discounted price of the product
+7.sizes: Size of the products
+8.product_link: Link of the product
+9.img_link: image link of the product
+10.product_tag: tags of the product
+
+The details of these products are scraped from the Myntra website
